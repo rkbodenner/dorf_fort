@@ -1,0 +1,408 @@
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 4333334
+ Seed: 9ROf4cqrUio0qw2NavES
+ History Seed: 9wvX55yNFVuigx9vjLZZ
+ Name Seed: oFSg31N3flQMBBe5lbdI
+ Creature Seed: ctHCHH0eYpuzBiVIWvjT
+** Starting New Outpost **
+** Loading Fortress **
+You have struck tetrahedrite!
+You have struck microcline!
+You have struck indigo tourmaline!
+You have struck petrified wood!
+A snow storm has come.
+You have struck microcline!
+It has started raining.
+The weather has cleared.
+There is nothing to catch in the central swamps.
+You have struck schorl!
+Dåshmab MîrulinsÇl has become a Miner.
+You have struck tetrahedrite!
+It has started raining.
+The weather has cleared.
+You have struck orthoclase!
+It has started raining.
+You have struck indigo tourmaline!
+The weather has cleared.
+It has started raining.
+You have struck heliodor!
+You have struck mica!
+äzum Kilrudcilob has become a expedition leader.
+You have struck indigo tourmaline!
+Kadol Oddomkidet has become a Carpenter.
+Dåshmab MîrulinsÇl has become a Stonecrafter.
+Dåshmab MîrulinsÇl has become a Miner.
+The weather has cleared.
+It is now summer.
+You have struck orthoclase!
+You have struck cobaltite!
+You have struck native gold!
+It has started raining.
+You have struck cobaltite!
+You have struck native gold!
+You have struck mica!
+You have struck pink tourmaline!
+You have struck moonstone!
+You have struck indigo tourmaline!
+Kadol Oddomkidet, Carpenter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of microcline Door.
+Construct rock Cabinet (1) has been completed.
+Construct rock Coffer (1) has been completed.
+Construct rock Door (2) has been completed.
+You have struck orthoclase!
+Construct Bed (2) has been completed.
+Make rock Pot (5) has been completed.
+There is nothing to catch in the central swamps.
+The weather has cleared.
+Some migrants have arrived.
+Mîrul CattentimnÑr, Stray Cat (Tame) has adopted Ilral Thobnisgak, Fisherdwarf.
+It has started raining.
+The weather has cleared.
+Doren Ledluslem, Stray Cat (Tame) has adopted Ilral Thobnisgak, Fisherdwarf.
+Dåshmab MîrulinsÇl, Miner cancels Cut pink tourmaline: Needs rough pink tourmalines.
+Kel ñzdatan, Woodcutter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Still.
+Solon Sobçrlolok, Fish Cleaner cancels Plant Seeds: Needs cave wheat seeds.
+You have struck microcline!
+You have struck microcline!
+Dåshmab MîrulinsÇl, Miner cancels Cut moonstone: Needs rough moonstones.
+You have struck amethyst!
+Construct wooden Bin (10) has been completed.
+You have struck microcline!
+åton Stizashshem, chief medical dwarf cancels Plant Seeds: Needs cave wheat seeds.
+x2
+Iden Abodobok, Strand Extractor cancels Cut indigo tourmaline: Needs rough indigo tourmalines.
+äzum Kilrudcilob has become a expedition leader.
+It has started raining.
+Autumn has come.
+There is nothing to catch in the central swamps.
+Construct Bed (10) has been completed.
+The weather has cleared.
+It has started raining.
+Ilral Thobnisgak, Fisherdwarf cancels Brew Drink: Needs distillable item.
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+x2
+x3
+Kel ñzdatan, Woodcutter cancels Brew Drink: Needs distillable item.
+The weather has cleared.
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+x2
+x3
+x4
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+x2
+x3
+x4
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+x2
+x3
+x4
+Kel ñzdatan, Woodcutter cancels Brew Drink: Needs distillable item.
+Construct rock Door (4) has been completed.
+The Stray Dog bites The Dwarven Child in the head, bruising the fat through the (alpaca wool hood)!
+The Stray Dog latches on firmly!
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+x2
+x3
+x4
+Ilral Thobnisgak, Fisherdwarf cancels Brew Drink: Needs distillable item.
+It has started raining.
+The Stray Dog attacks The Cat but She jumps away!
+The Stray Dog stands up.
+Construct Mechanisms (6) has been completed.
+Kel ñzdatan, Woodcutter cancels Brew Drink: Needs distillable item.
+Construct rock Table (3) has been completed.
+Ilral Thobnisgak, Fisherdwarf cancels Brew Drink: Needs distillable item.
+Some migrants have arrived.
+Construct rock Throne (3) has been completed.
+You have struck cobaltite!
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+The Stray Dog bites The Fish Cleaner in the right lower leg, bruising the fat through the (cougar leather robe)!
+The Stray Dog latches on firmly!
+The weather has cleared.
+The Fish Cleaner stands up.
+The Stray Dog bites The Dwarven Child in the right upper arm, bruising the fat through the (giant cave spider silk cloak)!
+The Stray Dog latches on firmly!
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+The Stray Dog grabs The Dwarven Child by the (draltha leather shoe) with her right rear leg!
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+The Stray Dog bites The Dwarven Child in the right lower leg, bruising the muscle through the (llama wool robe)!
+The Stray Dog latches on firmly!
+The Stray Dog stands up.
+The Stray Dog bites The Stray Dog in the left rear leg, tearing the fat!
+The Stray Dog latches on firmly!
+The Dwarven Child stands up.
+The Stray Dog stands up.
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+The Stray Dog misses The Craftsdwarf!
+The Stray Dog stands up.
+The Craftsdwarf stands up.
+The Stray Dog stands up.
+The Craftsdwarf stands up.
+Solon Sobçrlolok, Fish Cleaner cancels Brew Drink: Needs distillable item.
+It has started raining.
+The Stray Dog misses The Miller!
+The Miller counterstrikes!
+The Miller grabs The Stray Dog by the first right front toe with her right lower arm!
+The Stray Dog attacks The Miller but She jumps away!
+The Stray Dog bites The Dwarven Child in the head, bruising the fat through the (pig tail fiber hood)!
+The Stray Dog latches on firmly!
+The Dwarven Child stands up.
+The Stray Dog attacks The Dwarven Child but He jumps away!
+The Stray Dog stands up.
+Construct Bed (4) has been completed.
+The weather has cleared.
+Brew Drink (15) has been completed.
+Iden Abodobok, Strand Extractor cancels Give Food: No food available.
+Construct Mechanisms (6) has been completed.
+Aban Niralnish, Fisherdwarf cancels Give Food: No food available.
+Aban Niralnish, Fisherdwarf cancels Give Food: No food available.
+Construct rock Door (10) has been completed.
+Kadol Oddomkidet, Carpenter cancels Give Food: No food available.
+åton Stizashshem, chief medical dwarf cancels Give Food: No food available.
+Dod¢k Abanistam, Spinner cancels Give Food: No food available.
+Aban Niralnish, Fisherdwarf cancels Give Food: No food available.
+Kadol Oddomkidet, Carpenter cancels Give Food: No food available.
+You have struck petrified wood!
+Zasit Mengstukos, Miller cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+It has started raining.
+Tulon Sanrebkikrost, Armorer cancels Store Item in Barrel: Hunting vermin for food.
+Dåshmab MîrulinsÇl, Miner cancels Give Food: No food available.
+The Stray Donkey Foal (Tame) has been slaughtered.
+The weather has cleared.
+Tulon Sanrebkikrost, Armorer cancels Eat: Taken by mood.
+Tulon Sanrebkikrost, Armorer is taken by a fey mood!
+Tulon Sanrebkikrost has claimed a Metalsmith's Forge.
+Tulon Sanrebkikrost has begun a mysterious construction!
+You have struck cinnamon grossular!
+Tulon Sanrebkikrost, Armorer has created Tomus¢d, a silver right gauntlet!
+You have struck microcline!
+You have struck native gold!
+You have struck orthoclase!
+You have struck orthoclase!
+You have struck prase!
+The outpost liaison Onol Nomalçtdón from Urist Ilid has arrived.
+A caravan from Urist Ilid has arrived.
+A snow storm has come.
+Merchants have arrived and are unloading their goods.
+Iden Abodobok, Strand Extractor cancels Smelt tetrahedrite Ore: Needs tetrahedrite.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+The weather has cleared.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+Winter is upon you.
+You have struck peridot!
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+You have struck native gold!
+Zasit Mengstukos, Miller cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+Construct rock Coffer (10) has been completed.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+You have struck moonstone!
+A snow storm has come.
+Construct rock Throne (3) has been completed.
+You have struck orthoclase!
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+Zasit Mengstukos, Miller cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+The merchants from Urist Ilid will be leaving soon.
+Construct rock Table (3) has been completed.
+The weather has cleared.
+You have struck petrified wood!
+Zasit Mengstukos, Miller cancels Make bone bolts: Needs unrotten bone body part.
+You have struck tetrahedrite!
+Zasit Mengstukos, Miller cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+The merchants from Urist Ilid have embarked on their journey.
+Construct rock Door (6) has been completed.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Aban Niralnish, Fisherdwarf cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of microcline Door.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Dåshmab MîrulinsÇl, Miner cancels Cut peridot: Needs rough peridots.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+A snow storm has come.
+Zasit Mengstukos, Miller cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Construct rock Cabinet (10) has been completed.
+Forge copper crossbow (5) has been completed.
+Bâmbul äzumrimtar, Craftsdwarf cancels Give Water: No water source.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+åton Stizashshem, chief medical dwarf cancels Forge copper battle axe: Needs 1 copper bars.
+x2
+x3
+Bâmbul äzumrimtar has created a masterpiece!
+Make rock Pot (5) has been completed.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+Iden Abodobok, Strand Extractor cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+Construct rock Quern (1) has been completed.
+Dåshmab MîrulinsÇl, Miner cancels Cut native gold: Needs gold nuggets.
+Iden Abodobok, Strand Extractor cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+Construct rock Millstone (1) has been completed.
+Iden Abodobok, Strand Extractor cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+Melbil Borikvucar, Fish Cleaner cancels Smelt tetrahedrite Ore: Needs tetrahedrite.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+Make wooden Bucket (2) has been completed.
+The weather has cleared.
+Kñbuk ésokol, Miner has been found dead, completely drained of blood!
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+Forge copper battle axe (5) has been completed.
+Iden Abodobok, Strand Extractor cancels Make bone bolts: Needs unrotten bone body part.
+Melbil Borikvucar, Fish Cleaner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Forge copper Chain (1) has been completed.
+Dåshmab MîrulinsÇl, Miner cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Dåshmab MîrulinsÇl, Miner cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+A snow storm has come.
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Bâmbul äzumrimtar, Craftsdwarf cancels Make bone bolts: Needs unrotten bone body part.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Solon Sobçrlolok, Fish Cleaner cancels Extract from Raw Fish: Needs unrotten extract-bearing fish item.
+The weather has cleared.
