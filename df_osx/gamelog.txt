@@ -406,3 +406,120 @@ x9
 x10
 Solon Sobçrlolok, Fish Cleaner cancels Extract from Raw Fish: Needs unrotten extract-bearing fish item.
 The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Melbil Borikvucar, Fish Cleaner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Brew Drink (5) has been completed.
+Solon Sobçrlolok has become a Herbalist.
+Zasit Mengstukos, Miller cancels Dump Item: Drop-off inaccessible.
+Sarvesh Kidetzefon, Gem Setter cancels Dump Item: Drop-off inaccessible.
+Solon Sobçrlolok, Herbalist cancels Extract from Raw Fish: Needs unrotten extract-bearing fish item.
+Melbil Borikvucar, Fish Cleaner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Solon Sobçrlolok, Herbalist cancels Extract from Raw Fish: Needs unrotten extract-bearing fish item.
+Construct rock Door (10) has been completed.
+Snatcher!  Protect the children!
+The Goblin Thief slashes The Cat in the tail with his ({large silver dagger}) and the severed part sails off in an arc!
+Bâmbul äzumrimtar has become a militia captain.
+äzum Kilrudcilob has become a expedition leader.
+Kel ñzdatan, Woodcutter cancels Fell Tree: Interrupted by Goblin Thief.
+Kel ñzdatan, Woodcutter cancels Pen/Pasture Large Animal: Interrupted by Goblin Thief.
+Snatcher!  Protect the children!
+äzum Kilrudcilob has become a expedition leader.
+Bâmbul äzumrimtar has become a militia captain.
+Mîrul CattentimnÑr, Cat (Tame) has been found dead.
+Bâmbul äzumrimtar has become a militia captain.
+Construct rock Coffer (4) has been completed.
+Snatcher!  Protect the children!
+The Goblin Thief slashes The expedition leader in the left foot with his ({large copper dagger}), fracturing the bone through the (giant rat leather shoe)!
+A sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+äzum Kilrudcilob, expedition leader cancels Load Stone Trap: Interrupted by Goblin Thief.
+The expedition leader falls over.
+Zasit Mengstukos, Miller cancels Eat: Interrupted by Goblin Thief.
+äzum Kilrudcilob has become a expedition leader.
+Zasit Mengstukos, Miller cancels Eat: Interrupted by Goblin Thief.
+The militia captain strikes at The Goblin Thief but the shot is parried!
+The Goblin Thief counterstrikes!
+The Goblin Thief misses The militia captain!
+The militia captain bashes The Goblin Thief in the right lower arm with her (bronze crossbow), fracturing the bone through the ({giant cave spider silk cloak})!
+The Goblin Thief loses hold of the ({giant cave spider silk bag}).
+The militia captain bashes The Goblin Thief in the mouth with her (bronze crossbow), bruising the left cheek's skin through the ({giant cave spider silk cloak})!
+The militia captain bashes The Goblin Thief in the right foot with her (bronze crossbow), shattering the bone through the ({troll fur sandal})!
+The Goblin Thief falls over.
+The militia captain bashes The Goblin Thief in the left hand with her (bronze crossbow), shattering the bone through the ({troll fur left glove})!
+The Goblin Thief loses hold of the ({large copper dagger}).
+The militia captain bashes The Goblin Thief in the lower body with her (bronze crossbow), bruising the muscle and bruising the guts through the ({giant cave spider silk cloak})!
+The Goblin Thief looks sick!
+The militia captain bashes The Goblin Thief in the left foot with her (bronze crossbow), shattering the bone through the ({troll fur sandal})!
+The militia captain bashes The Goblin Thief in the left lower leg with her (bronze crossbow), fracturing the bone through the ({troll fur trousers})!
+The Goblin Thief vomits.
+The militia captain bites The Goblin Thief in the upper body, bruising the muscle through the ({giant cave spider silk cloak})!
+The militia captain latches on firmly!
+The Goblin Thief retches.
+The militia captain shakes The Goblin Thief around by the upper body, tearing apart the upper body's fat!
+The Goblin Thief misses The militia captain!
+The militia captain kicks The Goblin Thief in the head with her right foot, bruising the muscle and shattering the skull through the ({elk bird leather hood})!
+The Goblin Thief retches.
+The militia captain bashes The Goblin Thief in the upper body with her (bronze crossbow), bruising the muscle and bruising the left lung through the ({giant cave spider silk cloak})!
+The militia captain bashes The Goblin Thief in the left hand with her (bronze crossbow), shattering the bone through the ({troll fur left glove})!
+The militia captain punches The Goblin Thief in the right foot with her right hand, jamming the bone through the right ankle's muscle and shattering the right ankle's bone!
+The militia captain bashes The Goblin Thief in the right hand with her (bronze crossbow), shattering the bone through the ({troll fur right glove})!
+The militia captain bashes The Goblin Thief in the lower body with her (bronze crossbow), bruising the muscle and bruising the left kidney through the ({giant cave spider silk cloak})!
+The militia captain bashes The Goblin Thief in the left lower arm with her (bronze crossbow), shattering the bone through the ({giant cave spider silk cloak})!
+The Goblin Thief vomits.
+The militia captain bashes The Goblin Thief in the lower body with her (bronze crossbow), bruising the muscle and bruising the guts through the ({giant cave spider silk cloak})!
+The Goblin Thief looks even more sick!
+The militia captain punches The Goblin Thief in the left lower arm with her right hand, shattering the bone through the ({giant cave spider silk cloak})!
+The Goblin Thief retches.
+The militia captain kicks The Goblin Thief in the upper body with her right foot, bruising the muscle, jamming the right floating ribs through the liver and tearing apart the liver!
+Zasit Mengstukos, Miller cancels Eat: Interrupted by Goblin Thief.
+The militia captain bashes The Goblin Thief in the left hand with her (bronze crossbow), shattering the bone through the ({troll fur left glove})!
+The militia captain bites The Goblin Thief in the lower body, bruising the muscle and bruising the stomach through the ({giant cave spider silk cloak})!
+The militia captain latches on firmly!
+The Goblin Thief retches.
+The militia captain shakes The Goblin Thief around by the lower body, tearing apart the lower body's fat!
+The Goblin Thief misses The militia captain!
+The militia captain bashes The Goblin Thief in the lower body with her (bronze crossbow), bruising the muscle and bruising the left kidney through the ({giant cave spider silk cloak})!
+The militia captain bashes The Goblin Thief in the left lower arm with her (bronze crossbow), shattering the bone through the ({giant cave spider silk cloak})!
+The militia captain bashes The Goblin Thief in the upper body with her (bronze crossbow), bruising the muscle and shattering the left false ribs through the ({giant cave spider silk cloak})!
+The Goblin Thief gives in to pain.
+The militia captain bashes The Goblin Thief in the head with her (bronze crossbow), bruising the muscle and tearing apart the upper spine's nervous tissue through the ({elk bird leather hood})!
+The militia captain bashes The Goblin Thief in the head with her (bronze crossbow), bruising the muscle and shattering the skull through the ({elk bird leather hood})!
+The militia captain bashes The Goblin Thief in the head with her (bronze crossbow), bruising the muscle, jamming the skull through the brain and tearing the brain!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+äzum Kilrudcilob has become a expedition leader.
+Snatcher!  Protect the children!
+x2
+Solon Sobçrlolok, Herbalist cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Spring has arrived!
+Construct rock Coffin (1) has been completed.
+Kadol Oddomkidet, Carpenter cancels Give Water: No water source.
+Tekkud Bimãteb, Beekeeper cancels Plant Seeds: Needs plump helmet spawn.
+Iden Abodobok, Strand Extractor cancels Give Water: No water source.
+Iden Abodobok, Strand Extractor cancels Cut dolomite: Needs dolomite.
+It has started raining.
+Solon Sobçrlolok, Herbalist cancels Extract from Raw Fish: Needs unrotten extract-bearing fish item.
+Sarvesh Kidetzefon, Gem Setter cancels Give Water: Need empty bucket.
+Dod¢k Abanistam, Spinner cancels Give Water: Need empty bucket.
+The weather has cleared.
+Melbil Borikvucar, Fish Cleaner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Some migrants have arrived.
+Dod¢k Abanistam, Spinner cancels Give Water: Need empty bucket.
+Rith AvuzunÉl has become a militia captain.
+Bâmbul äzumrimtar has become a Craftsdwarf.
+Zasit Mengstukos has become a Recruit.
+Dastot Rìberïnul has become a Macedwarf.
+Aban Niralnish has become a militia commander.
+There is nothing to catch in the central swamps.
+Vucar Lolorgeb, Fish Dissector cancels Extract from Raw Fish: Needs unrotten extract-bearing fish item.
+It has started raining.
+äzum ïnulber, Wood Burner cancels Make Charcoal: Needs logs.
+Dastot Rìberïnul has become a Peasant.
+Zasit Mengstukos has become a Miller.
+Rith AvuzunÉl has become a militia captain.
+Dastot Rìberïnul has become a Macedwarf.
+Zasit Mengstukos has become a Recruit.
+Rith AvuzunÉl has become a militia captain.
+Meng Mîrulelik, Metalcrafter cancels Forge copper Chain: Needs 1 copper bars.
+x2
+x3
